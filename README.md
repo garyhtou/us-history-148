@@ -6,4 +6,4 @@ I took this class back in Winter 2020 as a running start student (Dual-Enrollmen
 
 By no means are these notes perfect, there are most likely a couple of typos here and there. They're just the raw notes from when I took the class. Enjoy!
 
-### [`USHistoryIII_HIST148_Notes.html`](/USHistoryIII_HIST148_Notes.html)
+### [`View US History III Notes`](/index.html)
